@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.TrailJournal.SystemBars" parent="Theme.TrailJournal.Base">
+        <item name="android:windowLightNavigationBar">@bool/journal_light_system_bars</item>
+    </style>
+</resources>

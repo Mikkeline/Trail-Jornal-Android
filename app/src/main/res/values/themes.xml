@@ -4,7 +4,7 @@
         <item name="android:statusBarColor">@android:color/transparent</item>
         <item name="android:navigationBarColor">@color/journal_window_background</item>
         <item name="android:windowLightStatusBar">@bool/journal_light_system_bars</item>
-        <item name="android:windowLightNavigationBar">@bool/journal_light_system_bars</item>
     </style>
-    <style name="Theme.TrailJournal" parent="Theme.TrailJournal.Base" />
+    <style name="Theme.TrailJournal.SystemBars" parent="Theme.TrailJournal.Base" />
+    <style name="Theme.TrailJournal" parent="Theme.TrailJournal.SystemBars" />
 </resources>

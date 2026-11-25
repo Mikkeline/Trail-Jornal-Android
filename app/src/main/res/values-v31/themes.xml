@@ -1,5 +1,5 @@
 <resources>
-    <style name="Theme.TrailJournal" parent="Theme.TrailJournal.Base">
+    <style name="Theme.TrailJournal" parent="Theme.TrailJournal.SystemBars">
         <item name="android:windowSplashScreenBackground">@color/journal_window_background</item>
         <item name="android:windowSplashScreenAnimatedIcon">@drawable/ic_trail_splash</item>
     </style>
