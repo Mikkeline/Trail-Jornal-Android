@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.TrailJournal.Base" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/journal_window_background</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@color/journal_window_background</item>
+        <item name="android:windowLightStatusBar">@bool/journal_light_system_bars</item>
+        <item name="android:windowLightNavigationBar">@bool/journal_light_system_bars</item>
+    </style>
+    <style name="Theme.TrailJournal" parent="Theme.TrailJournal.Base" />
+</resources>

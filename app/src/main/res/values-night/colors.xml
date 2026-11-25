@@ -1,0 +1,4 @@
+<resources>
+    <color name="journal_window_background">#111712</color>
+    <bool name="journal_light_system_bars">false</bool>
+</resources>

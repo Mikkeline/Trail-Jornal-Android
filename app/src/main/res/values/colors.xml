@@ -1,0 +1,5 @@
+<resources>
+    <color name="brand_forest">#285540</color>
+    <color name="journal_window_background">#F5F7F2</color>
+    <bool name="journal_light_system_bars">true</bool>
+</resources>
